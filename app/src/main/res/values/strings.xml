@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wildberries_week_one</string>
+    <string name="service_example">Service Example</string>
+    <string name="provider_example">Content Provider Example</string>
+    <string name="receiver_example">Broadcast Receiver Example</string>
+    <string name="receiver_text">Подключите или отключите зарядное устройство</string>
+    <string name="receiver_send_message">Отправить сообщение</string>
+    <string name="provider_get_count">Узнать количество контактов</string>
+    <string name="provider_send_query">Отправить запрос провайдеру</string>
+</resources>
